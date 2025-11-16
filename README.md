@@ -25,7 +25,7 @@ Abra o terminal, CMD ou Git Bash e rode:
 
 git clone https://github.com/joaovitorradlinski-svg/Projeto-flutter.git
 cd Projeto-flutter
-git checkout Flutter_finalizado
+git checkout login_e_registro_funcionando_e_centralizado
 
  Passo 2 – Instalar dependências do Flutter
 
