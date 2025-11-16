@@ -1,3 +1,7 @@
+RPGConfig
+
+Aplição de gerenciamento de campanhas, locais e personagens de rpg de mesa
+__________________________________________________________________________________________________________________________________________
 Este repositório contém um aplicativo Flutter totalmente funcional, incluindo autenticação, telas principais e integração com Firebase.
 
 🔧 Pré-requisitos
@@ -77,3 +81,4 @@ flutter run -d chrome
 
 Ou rodar normalmente
 flutter run
+
