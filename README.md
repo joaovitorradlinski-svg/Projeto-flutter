@@ -1,3 +1,4 @@
+
 🔧 O que você precisa instalar antes
 
 Antes de começar, instale os seguintes programas:
@@ -105,7 +106,7 @@ models/ → Estruturas de dados
 
 utils/ → Funções auxiliares
 
-👤 Login e Registro
+ Login e Registro
 
 O app possui autenticação completa via Firebase:
 
